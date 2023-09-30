@@ -39,7 +39,7 @@ O quadro kanban do grupo no GitHub está disponível no link: https://github.com
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_3/assets/145169176/ed486122-c23e-44a6-8046-b26cbb40dc59"
 
-    Figura 1 - Tela do esquema de cores e categorias
+    Figura 1 - Tela do esquema de cores e categoriasXXXXXXXXXX
 </figure>
   
 ### Ferramentas
