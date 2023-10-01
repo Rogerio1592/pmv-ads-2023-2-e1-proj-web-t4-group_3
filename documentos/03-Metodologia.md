@@ -35,8 +35,8 @@ O quadro kanban do grupo no GitHub está disponível no link: https://github.com
   <li>Inspiração (Material de pesquisa)</li>
   <li>Em andamento (Tarefas em desenvolvimento)</li>
   <li>A Fazer (Tarefas não iniciadas)</li>
-  <li>Algorítmos e Lógica de Programação(Microfundamento Etapa-02)</li>
-  <li>Matemática Básica(Microfundamento Etapa-02)</li>
+  <li>Algorítmos e Lógica de Programação (Microfundamento Etapa-02)</li>
+  <li>Matemática Básica (Microfundamento Etapa-02)</li>
 </ul>
 
 <figure> 
@@ -45,13 +45,6 @@ O quadro kanban do grupo no GitHub está disponível no link: https://github.com
     Figura 1 - Etiquetas GitHub
  
  <figure>
-  O quadro kanban do grupo no Trello está disponível no link: https://trello.com/b/DAeDJYZf/projeto-marca%C3%AA e é apresentado, no estado atual, na figura abaixo:
-
-<figure> 
-  <img src="https://user-images.githubusercontent.com/146504095/271796657-48a3cadb-a284-4bcb-9ae1-0394e5b9b9d1.png"width="800"height="400px"
-
-    Figura 2 - Tela do esquema de cores e categorias
-</figure>
   
 ### Ferramentas
 
